@@ -11,7 +11,7 @@ backend - express api
 # To Run use `npm run dev`
 
 
-![mern-todo-desktop](https://i.ibb.co/KxQkdyMw/mern-todo-desktop.png)
-![mern-todo-desktop](https://i.ibb.co/bM4rbH3f/mern-todo-desktop-2.png)
-![mern-todo-desktop](https://i.ibb.co/1JKQCmJ9/todo-mobile.png)
-![mern-todo-desktop](https://i.ibb.co/RT6ZR7cd/todo-mobile-1.png)
+![mern-todo-desktop](/screenshots/mern%20todo%20desktop.png)
+![mern-todo-desktop](/screenshots/mern%20todo%20desktop%202.png)
+![mern-todo-desktop](/screenshots//todo%20mobile.png)
+![mern-todo-desktop](/screenshots//todo%20mobile%201.png)
